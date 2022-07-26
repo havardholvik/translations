@@ -1,1 +1,1 @@
-Some-heading = This is the heading
+Some-heading = To jest nagłówek
